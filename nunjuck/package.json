@@ -1,0 +1,22 @@
+{
+    "name": "nunjuck",
+    "version": "1.0.0",
+    "description": "Test nunjuck",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "nunjuck",
+        "templating"
+    ],
+    "author": "Michael Liao",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/michaelliao/learn-javascript.git"
+    },
+    "dependencies": {
+        "nunjucks": "2.4.2"
+    }
+}
